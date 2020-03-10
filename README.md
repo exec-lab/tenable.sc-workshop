@@ -1,14 +1,17 @@
-# Tenable.SC Workshop 
+# Tenable.SC Workshop
 
 ## 日程安排
 
-### 日期：
+### 日期
 
 待定
 
-### 时间：3 hrs
+### 时间
 
-### 对象：国内证券行业Tenable.SC使用者及相关管理人员
+3 hrs
+
+### 对象
+国内证券行业Tenable.SC使用者及相关管理人员
 
 ## 内容
 
