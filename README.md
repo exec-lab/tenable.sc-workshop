@@ -51,6 +51,6 @@
 
 #### `4.2` 插件debugging
 
-#### `4.3` Blackout Windows (待定)
+#### `4.3` Blackout Windows
 
-### `5` 开放式讨论与问答 (待定)
+### `5` 开放式讨论与问答 
